@@ -1,4 +1,4 @@
-![logo](https://github.com/Ysharma11189/Yogendra_Sharma/blob/main/Profile_Banner_for%20Github.png)
+![logo](https://github.com/Ysharma11189/Ysharma11189/blob/main/Profile_Banner_for%20Github.png)
 
 <h1 align="center">Hi 👋, I'm Yogendra Kumar Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
