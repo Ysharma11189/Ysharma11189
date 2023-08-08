@@ -24,6 +24,73 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<svg xmlns="http://www.w3.org/2000/svg" data-testid="lang-items" x="25">
+      
+  
+  <mask id="rect-mask">
+      <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+    </mask>
+    
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="116.04" height="8" fill="#DA5B0B"/>
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="116.04" y="0" width="43.99" height="8" fill="#3572A5"/>
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="160.03" y="0" width="28.4" height="8" fill="#b07219"/>
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="188.43" y="0" width="22.47" height="8" fill="#f1e05a"/>
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="210.9" y="0" width="20.29" height="8" fill="#563d7c"/>
+      
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="231.19" y="0" width="18.82" height="8" fill="#e34c26"/>
+      
+  
+    <g transform="translate(0, 25)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#DA5B0B"/>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        Jupyter Notebook 46.41%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        Python 17.60%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#b07219"/>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        Java 11.36%
+      </text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        JavaScript 8.99%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#563d7c"/>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        CSS 8.11%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">
+        HTML 7.53%
+      </text>
+    </g>
+  </g></g>
+    </g>
+  
+    </svg>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
