@@ -1,7 +1,7 @@
 <!-- Banner Image (Upload 'Profile Banner for LI.png' to your Ysharma11189 repository) -->
 <p align="center">
   <a href="https://yogendrasharma.com/" target="_blank">
-    <img src="./Profile%20Banner%20for%20LI.png" alt="Yogendra Kumar Sharma - Senior Instructional Designer & eLearning Solutions Architect" width="100%" />
+    <img src="Profile Banner for LI.webp" alt="Yogendra Kumar Sharma - Senior Instructional Designer & eLearning Solutions Architect" width="100%" />
   </a>
 </p>
 
