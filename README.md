@@ -1,37 +1,90 @@
-![logo](https://github.com/Ysharma11189/Ysharma11189/blob/main/Profile_Banner_for%20Github.png)
-
-<h1 align="center">Hi 👋, I'm Yogendra Kumar Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" Src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysharma11189&label=Profile%20views&color=0e75b6&style=flat" alt="ysharma11189" /> </p>
-
-- 🔭 I’m currently working on **GSR Business Service Pvt. Ltd**
-
-- 👨‍💻 All of my projects are available at [https://yogendrasharma.com/](https://yogendrasharma.com/)
-
-- 📫 How to reach me **yogendrasharma11189@gmail.com | info@yogendrasharma.com**
-
-- 📄 Know about my experiences [https://yogendrasharma.in/](https://yogendrasharma.in/)
-
-- ⚡ Fun fact **I'm very funny and do Childish activities😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="linkedin.com/in/yogendra-kumar-sharma-a87a56411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yogendra-sharma-9a674a4a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/yogendra11189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yogendra11189" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uceczdx313ocimvpfcaldy9q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceczdx313ocimvpfcaldy9q" height="30" width="40" /></a>
+<!-- Top Banner -->
+<p align="center">
+  <a href="https://yogendrasharma.com/" target="_blank">
+    <img src="https://github.com/Ysharma11189/Ysharma11189/blob/main/github-banner.png?raw=true" alt="Yogendra Kumar Sharma - Instructional Designer & E-Learning Specialist" width="100%" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Quick Action Navigation Bar -->
+<p align="center">
+  <a href="https://yogendrasharma.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-yogendrasharma.com-0A2540?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/yogendra-kumar-sharma-a87a56411" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:info@yogendrasharma.com"><img src="https://img.shields.io/badge/✉️_Email-info@yogendrasharma.com-0D9488?style=for-the-badge" alt="Email"/></a>
+  <a href="https://www.kaggle.com/yogendra11189" target="_blank"><img src="https://img.shields.io/badge/📊_Kaggle-Data_Science-20BEFF?style=for-the-badge" alt="Kaggle"/></a>
+</p>
 
-<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#fffefe" stroke-opacity="1"/>
+<h3 align="center"><i>"Learning Today... Better Tomorrow" — Design • Develop • Deliver</i></h3>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysharma11189&show_icons=true&locale=en&layout=compact" alt="ysharma11189" /></p>
+### 👋 Hi there, I'm Yogendra Kumar Sharma!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysharma11189&show_icons=true&locale=en" alt="ysharma11189" /></p>
+I am a **Senior Instructional Designer, eLearning Solutions Architect, and Learning Analytics Specialist** with **10+ years of experience** crafting high-impact digital learning ecosystems for global enterprises including **EY, Accenture, Bechtel, and Baxter**[cite: 24].
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysharma11189&" alt="ysharma11189" /></p>
+- 🔭 **Current Role:** Senior eLearning Developer at **Skill Cube Pvt. Ltd.** (Gurugram)[cite: 24]
+- 🛡️ **Core Focus:** Architecting interactive **Cybersecurity** courses, SCORM/xAPI simulations, and managing **LMS Portals**[cite: 24]
+- 🤖 **AI-Powered Workflows:** Integrating **Claude, Gemini, Synthesia, and Colossyan** to accelerate scriptwriting, storyboarding, and AI avatar video production[cite: 24]
+- 📊 **Data-Driven L&D:** Utilizing **Power BI, Python, and SQL** to measure learner engagement, training ROI, and business KPIs[cite: 24]
+
+---
+
+### 🧩 Core Pillars (From Concept to Deployment)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📘 1. Design (Instructional Architecture)</h4>
+      <ul>
+        <li>ADDIE, SAM & Scenario-Based Storyboarding[cite: 24]</li>
+        <li>UI/UX Wireframing in Adobe XD & Figma</li>
+        <li>Cybersecurity & Compliance Curriculum Design[cite: 24]</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📗 2. Develop (Interactive & AI Media)</h4>
+      <ul>
+        <li>Articulate Storyline 360, Rise 360 & Captivate[cite: 24]</li>
+        <li>Generative AI Video (Synthesia, Colossyan, Claude, Gemini)[cite: 24]</li>
+        <li>Motion Graphics (After Effects, Premiere Pro, Illustrator)[cite: 24]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📙 3. Deliver (LMS & Standards)</h4>
+      <ul>
+        <li>SCORM 1.2 / 2004 & Custom JavaScript xAPI Tracking[cite: 24]</li>
+        <li>LMS Management Portal Administration & Deployment[cite: 24]</li>
+        <li>SAP Enable Now, WalkMe & Whatfix Digital Adoption[cite: 24]</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 4. Analyze (Data & Machine Learning)</h4>
+      <ul>
+        <li>Interactive Executive Dashboards in Power BI & Tableau[cite: 24]</li>
+        <li>Python (Pandas, NumPy, Scikit-learn) & SQL Queries[cite: 24]</li>
+        <li>NLP Sentiment Analysis & Predictive Learner Analytics[cite: 24]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Solutions & Projects
+
+| Project | Domain | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **Cybersecurity Threat Awareness Simulation** | Interactive eLearning | Storyline 360, xAPI, JS[cite: 24] | [View Demo](https://yogendrasharma.com)[cite: 24] |
+| **Enterprise Training & Sales KPI Dashboard** | Learning Analytics | Power BI, SQL, DAX[cite: 24] | [View Demo](https://yogendrasharma.com)[cite: 24] |
+| **NLP Learner Feedback Classification Pipeline** | AI / Machine Learning | Python, NLTK, Scikit-learn[cite: 24] | [View Demo](https://yogendrasharma.com)[cite: 24] |
+
+---
+
+### 🛠️ Technology & Creative Stack
+
+```text
+Instructional Design : Articulate Storyline 360 | Rise 360 | Adobe Captivate | SAP Enable Now | WalkMe
+Generative AI        : Claude | Gemini | Synthesia | Colossyan | Prompt Engineering
+Creative & Motion    : After Effects | Premiere Pro | Photoshop | Illustrator | InDesign | Adobe XD
+Data & Development   : Python | SQL | Power BI | Tableau | HTML5 | CSS3 | JavaScript | SCORM / xAPI
